@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<?import javafx.scene.layout.AnchorPane?>
-<?import es.ieslosmontecillos.test.MiControl?>
-
-<AnchorPane xmlns:fx="http://javafx.com/fxml" fx:controller="es.ieslosmontecillos.test.HelloController">
-    <MiControl fx:id="miControl" layoutX="50" layoutY="50" onAction="#handleMiControlAction"/>
-</AnchorPane>
